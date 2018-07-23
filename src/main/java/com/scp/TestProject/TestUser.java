@@ -1,5 +1,6 @@
 package com.scp.TestProject;
 
+import java.text.SimpleDateFormat;
 import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -17,10 +18,11 @@ public class TestUser {
 public static Logger logger=Logger.getLogger(TestUser.class);
 	
 	public static void main(String[] args) throws InterruptedException {
+		System.out.println("demo changes");
 		String log4jConfPath = "E:\\eclipse\\CrudHibernate\\src\\main\\java\\log4j.properties";
 		PropertyConfigurator.configure(log4jConfPath);
 		//OFE WI DTA
-				logger.setLevel(Level.ALL);
+			//	logger.setLevel(Level.ALL);
 				
 				for (int i=0;i<10;i++){
 		

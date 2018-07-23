@@ -66,3 +66,39 @@
 2018-07-23 14:23:25 INFO  TestUser:30:com.scp.TestProject.TestUser - This is info msg
 2018-07-23 14:23:25 DEBUG TestUser:31:com.scp.TestProject.TestUser - This is debug msg
 2018-07-23 14:23:25 TRACE TestUser:32:com.scp.TestProject.TestUser - This is trace msg
+2018-07-23 15:05:20 FATAL TestUser:29:com.scp.TestProject.TestUser - this is fatal
+2018-07-23 15:05:20 ERROR TestUser:30:com.scp.TestProject.TestUser - This is error msg
+2018-07-23 15:05:20 WARN  TestUser:31:com.scp.TestProject.TestUser - This is warn msg
+2018-07-23 15:05:20 INFO  TestUser:32:com.scp.TestProject.TestUser - This is info msg
+2018-07-23 15:05:20 DEBUG TestUser:33:com.scp.TestProject.TestUser - This is debug msg
+2018-07-23 15:05:20 TRACE TestUser:34:com.scp.TestProject.TestUser - This is trace msg
+2018-07-23 15:05:40 FATAL TestUser:29:com.scp.TestProject.TestUser - this is fatal
+2018-07-23 15:05:40 ERROR TestUser:30:com.scp.TestProject.TestUser - This is error msg
+2018-07-23 15:05:40 WARN  TestUser:31:com.scp.TestProject.TestUser - This is warn msg
+2018-07-23 15:05:40 INFO  TestUser:32:com.scp.TestProject.TestUser - This is info msg
+2018-07-23 15:05:40 DEBUG TestUser:33:com.scp.TestProject.TestUser - This is debug msg
+2018-07-23 15:05:40 TRACE TestUser:34:com.scp.TestProject.TestUser - This is trace msg
+2018-07-23 15:06:00 FATAL TestUser:29:com.scp.TestProject.TestUser - this is fatal
+2018-07-23 15:06:00 ERROR TestUser:30:com.scp.TestProject.TestUser - This is error msg
+2018-07-23 15:06:00 WARN  TestUser:31:com.scp.TestProject.TestUser - This is warn msg
+2018-07-23 15:06:00 INFO  TestUser:32:com.scp.TestProject.TestUser - This is info msg
+2018-07-23 15:06:00 DEBUG TestUser:33:com.scp.TestProject.TestUser - This is debug msg
+2018-07-23 15:06:00 TRACE TestUser:34:com.scp.TestProject.TestUser - This is trace msg
+2018-07-23 15:06:20 FATAL TestUser:29:com.scp.TestProject.TestUser - this is fatal
+2018-07-23 15:06:20 ERROR TestUser:30:com.scp.TestProject.TestUser - This is error msg
+2018-07-23 15:06:20 WARN  TestUser:31:com.scp.TestProject.TestUser - This is warn msg
+2018-07-23 15:06:20 INFO  TestUser:32:com.scp.TestProject.TestUser - This is info msg
+2018-07-23 15:06:20 DEBUG TestUser:33:com.scp.TestProject.TestUser - This is debug msg
+2018-07-23 15:06:20 TRACE TestUser:34:com.scp.TestProject.TestUser - This is trace msg
+2018-07-23 15:06:44 FATAL TestUser:29:com.scp.TestProject.TestUser - this is fatal
+2018-07-23 15:06:44 ERROR TestUser:30:com.scp.TestProject.TestUser - This is error msg
+2018-07-23 15:06:44 WARN  TestUser:31:com.scp.TestProject.TestUser - This is warn msg
+2018-07-23 15:06:44 INFO  TestUser:32:com.scp.TestProject.TestUser - This is info msg
+2018-07-23 15:07:04 FATAL TestUser:29:com.scp.TestProject.TestUser - this is fatal
+2018-07-23 15:07:04 ERROR TestUser:30:com.scp.TestProject.TestUser - This is error msg
+2018-07-23 15:07:04 WARN  TestUser:31:com.scp.TestProject.TestUser - This is warn msg
+2018-07-23 15:07:04 INFO  TestUser:32:com.scp.TestProject.TestUser - This is info msg
+2018-07-23 15:07:24 FATAL TestUser:29:com.scp.TestProject.TestUser - this is fatal
+2018-07-23 15:07:24 ERROR TestUser:30:com.scp.TestProject.TestUser - This is error msg
+2018-07-23 15:07:24 WARN  TestUser:31:com.scp.TestProject.TestUser - This is warn msg
+2018-07-23 15:07:24 INFO  TestUser:32:com.scp.TestProject.TestUser - This is info msg
