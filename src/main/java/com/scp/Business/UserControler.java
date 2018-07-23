@@ -10,7 +10,7 @@ import com.scp.pojos.User;
 
 public class UserControler {
 
-
+// comment added
 
 public String validateUserCredentails(String username, String password){
 	String dbUserName =null;
