@@ -1,0 +1,18 @@
+[FATAL] 2018-07-23 14:22:05,936 com.scp.TestProject.TestUser main - this is fatal
+[ERROR] 2018-07-23 14:22:05,938 com.scp.TestProject.TestUser main - This is error msg
+[WARN] 2018-07-23 14:22:05,939 com.scp.TestProject.TestUser main - This is warn msg
+[INFO] 2018-07-23 14:22:05,939 com.scp.TestProject.TestUser main - This is info msg
+[DEBUG] 2018-07-23 14:22:05,940 com.scp.TestProject.TestUser main - This is debug msg
+[TRACE] 2018-07-23 14:22:05,940 com.scp.TestProject.TestUser main - This is trace msg
+[FATAL] 2018-07-23 14:22:25,943 com.scp.TestProject.TestUser main - this is fatal
+[ERROR] 2018-07-23 14:22:25,945 com.scp.TestProject.TestUser main - This is error msg
+[WARN] 2018-07-23 14:22:25,946 com.scp.TestProject.TestUser main - This is warn msg
+[INFO] 2018-07-23 14:22:25,947 com.scp.TestProject.TestUser main - This is info msg
+[DEBUG] 2018-07-23 14:22:25,962 com.scp.TestProject.TestUser main - This is debug msg
+[TRACE] 2018-07-23 14:22:25,963 com.scp.TestProject.TestUser main - This is trace msg
+[FATAL] 2018-07-23 14:22:45,963 com.scp.TestProject.TestUser main - this is fatal
+[ERROR] 2018-07-23 14:22:45,964 com.scp.TestProject.TestUser main - This is error msg
+[WARN] 2018-07-23 14:22:45,964 com.scp.TestProject.TestUser main - This is warn msg
+[INFO] 2018-07-23 14:22:45,965 com.scp.TestProject.TestUser main - This is info msg
+[DEBUG] 2018-07-23 14:22:45,965 com.scp.TestProject.TestUser main - This is debug msg
+[TRACE] 2018-07-23 14:22:45,966 com.scp.TestProject.TestUser main - This is trace msg

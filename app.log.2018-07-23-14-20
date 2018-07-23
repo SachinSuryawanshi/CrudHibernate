@@ -1,0 +1,12 @@
+[FATAL] 2018-07-23 14:20:25,830 com.scp.TestProject.TestUser main - this is fatal
+[ERROR] 2018-07-23 14:20:25,855 com.scp.TestProject.TestUser main - This is error msg
+[WARN] 2018-07-23 14:20:25,856 com.scp.TestProject.TestUser main - This is warn msg
+[INFO] 2018-07-23 14:20:25,857 com.scp.TestProject.TestUser main - This is info msg
+[DEBUG] 2018-07-23 14:20:25,858 com.scp.TestProject.TestUser main - This is debug msg
+[TRACE] 2018-07-23 14:20:25,859 com.scp.TestProject.TestUser main - This is trace msg
+[FATAL] 2018-07-23 14:20:45,875 com.scp.TestProject.TestUser main - this is fatal
+[ERROR] 2018-07-23 14:20:45,876 com.scp.TestProject.TestUser main - This is error msg
+[WARN] 2018-07-23 14:20:45,909 com.scp.TestProject.TestUser main - This is warn msg
+[INFO] 2018-07-23 14:20:45,910 com.scp.TestProject.TestUser main - This is info msg
+[DEBUG] 2018-07-23 14:20:45,910 com.scp.TestProject.TestUser main - This is debug msg
+[TRACE] 2018-07-23 14:20:45,911 com.scp.TestProject.TestUser main - This is trace msg

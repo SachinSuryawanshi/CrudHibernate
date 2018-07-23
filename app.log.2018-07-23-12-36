@@ -1,0 +1,4 @@
+[FATAL] 2018-07-23 12:36:41,824 com.scp.TestProject.TestUser main - this is fatal
+[ERROR] 2018-07-23 12:36:41,845 com.scp.TestProject.TestUser main - This is error msg
+[WARN] 2018-07-23 12:36:41,846 com.scp.TestProject.TestUser main - This is warn msg
+[INFO] 2018-07-23 12:36:41,847 com.scp.TestProject.TestUser main - This is info msg
