@@ -23,9 +23,8 @@ public static Logger logger=Logger.getLogger(TestUser.class);
 		PropertyConfigurator.configure(log4jConfPath);
 		//OFE WI DTA
 			//	logger.setLevel(Level.ALL);
-			//Sachin	
-		System.out.println("demo changes");
-		System.out.println("demo changes");
+			//Sachin	Sushil
+		
 				for (int i=0;i<10;i++){
 		
 		logger.fatal("this is fatal");
